@@ -7,6 +7,8 @@ finds the difference either in days or another date.
 '''
 from datetime import datetime
 
+print("\nFind the number of days between two dates.\nUse the format YYYY-MM-DD")
+
 date_one = input("What's the first date? ")
 date_two = input("What's the second date? ")
 
